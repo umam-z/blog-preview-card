@@ -101,7 +101,7 @@ body {
   margin: 0 auto;
 }
 
-@media (min-width: 364px) {
+@media (min-width: 417.431192661px) {
   body {
     font-size: var(--fs-body-info);
   }
